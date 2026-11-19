@@ -1,4 +1,4 @@
-# Bee Bambu Studio Release
+# BeE Bambu Studio Release
 
 Kho lưu trữ và phát hành các bản build của **Bee Bambu Studio** dành cho **macOS** và **Windows**.
 
