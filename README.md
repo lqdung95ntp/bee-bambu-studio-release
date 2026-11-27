@@ -1,6 +1,6 @@
 # BeE Bambu Studio Release
 
-Kho lưu trữ và phát hành các bản build của **Bee Bambu Studio** dành cho **macOS** và **Windows**.
+Kho lưu trữ và phát hành các bản build của **BeE Bambu Studio** dành cho **macOS** và **Windows**.
 
 ## 🚀 Tải về phiên bản mới nhất (v02.09.02.62)
 
